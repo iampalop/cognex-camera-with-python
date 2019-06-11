@@ -1,0 +1,1 @@
+# cognex-camera-with-python
